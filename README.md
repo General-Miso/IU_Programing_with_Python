@@ -1,4 +1,4 @@
-# IU_Programing_with_Python
+# IU_Programming_with_Python
 Assignment for the Python course
 
 This is the project for the "Programming with Python" course for IU - International University of Applied Science. 
